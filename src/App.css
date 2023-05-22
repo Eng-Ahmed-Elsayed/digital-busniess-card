@@ -22,16 +22,12 @@ body {
   width: 19.8rem;
   margin-bottom: 1rem;
   border-radius: 10px 10px 10px 10px;
-  /* text-align: center;
-  justify-content: center;
-  align-items: center; */
 }
 
 .card-img {
   margin-top: 2.75rem;
   height: 19.8rem;
   border-radius: 10px 10px 0px 0px;
-  /* margin-inline: auto; */
 }
 .card-body {
   display: grid;
@@ -42,7 +38,6 @@ body {
   font-size: 1.56rem;
   height: 1.56rem;
   margin-bottom: 0.8rem;
-  /* margin-inline: auto; */
 }
 
 .card-job {
@@ -57,15 +52,12 @@ body {
   font-size: 0.8rem;
   color: #F5F5F5;
   line-height: 150%;
-  /* margin-inline: auto; */
-  /* margin:0; */
 }
 
 .card-buttons {
   display: flex;
   flex-direction: row;
   padding-inline: 2.25rem;
-  /* margin-inline: 1rem; */
 }
 
 .btn {
